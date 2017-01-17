@@ -1,0 +1,5 @@
+package consumers
+
+class SimpleConsumer {
+
+}
